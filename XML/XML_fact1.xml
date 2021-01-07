@@ -1,0 +1,638 @@
+﻿<ProductSuppiers>
+  <factProductSupplierDetails>
+    <ProductID>1</ProductID>
+    <ProductName>Chai</ProductName>
+    <SupplierID>1</SupplierID>
+    <CategoryID>1</CategoryID>
+    <QuantityPerUnit>10 boxes x 20 bags</QuantityPerUnit>
+    <UnitPrice>18.0000</UnitPrice>
+    <UnitsInStock>39</UnitsInStock>
+    <UnitsOnOrder>0</UnitsOnOrder>
+    <ReorderLevel>10</ReorderLevel>
+    <Discontinued>0</Discontinued>
+    <SupplierID_x0020__x0028_1_x0029_>1</SupplierID_x0020__x0028_1_x0029_>
+    <CompanyName>Exotic Liquids</CompanyName>
+    <ContactName>Charlotte Cooper</ContactName>
+    <ContactTitle>Purchasing Manager</ContactTitle>
+    <Address>49 Gilbert St.</Address>
+    <City>London</City>
+    <PostalCode>EC1 4SD</PostalCode>
+    <Country>UK</Country>
+    <Phone>(171) 555-2222</Phone>
+  </factProductSupplierDetails>
+  <factProductSupplierDetails>
+    <ProductID>2</ProductID>
+    <ProductName>Chang</ProductName>
+    <SupplierID>1</SupplierID>
+    <CategoryID>1</CategoryID>
+    <QuantityPerUnit>24 - 12 oz bottles</QuantityPerUnit>
+    <UnitPrice>19.0000</UnitPrice>
+    <UnitsInStock>17</UnitsInStock>
+    <UnitsOnOrder>40</UnitsOnOrder>
+    <ReorderLevel>25</ReorderLevel>
+    <Discontinued>0</Discontinued>
+    <SupplierID_x0020__x0028_1_x0029_>2</SupplierID_x0020__x0028_1_x0029_>
+    <CompanyName>New Orleans Cajun Delights</CompanyName>
+    <ContactName>Shelley Burke</ContactName>
+    <ContactTitle>Order Administrator</ContactTitle>
+    <Address>P.O. Box 78934</Address>
+    <City>New Orleans</City>
+    <Region>LA</Region>
+    <PostalCode>70117</PostalCode>
+    <Country>USA</Country>
+    <Phone>(100) 555-4822</Phone>
+    <HomePage>#CAJUN.HTM#</HomePage>
+  </factProductSupplierDetails>
+  <factProductSupplierDetails>
+    <ProductID>3</ProductID>
+    <ProductName>Aniseed Syrup</ProductName>
+    <SupplierID>1</SupplierID>
+    <CategoryID>2</CategoryID>
+    <QuantityPerUnit>12 - 550 ml bottles</QuantityPerUnit>
+    <UnitPrice>10.0000</UnitPrice>
+    <UnitsInStock>13</UnitsInStock>
+    <UnitsOnOrder>70</UnitsOnOrder>
+    <ReorderLevel>25</ReorderLevel>
+    <Discontinued>0</Discontinued>
+    <SupplierID_x0020__x0028_1_x0029_>3</SupplierID_x0020__x0028_1_x0029_>
+    <CompanyName>Grandma Kelly's Homestead</CompanyName>
+    <ContactName>Regina Murphy</ContactName>
+    <ContactTitle>Sales Representative</ContactTitle>
+    <Address>707 Oxford Rd.</Address>
+    <City>Ann Arbor</City>
+    <Region>MI</Region>
+    <PostalCode>48104</PostalCode>
+    <Country>USA</Country>
+    <Phone>(313) 555-5735</Phone>
+    <Fax>(313) 555-3349</Fax>
+  </factProductSupplierDetails>
+  <factProductSupplierDetails>
+    <ProductID>4</ProductID>
+    <ProductName>Chef Anton's Cajun Seasoning</ProductName>
+    <SupplierID>2</SupplierID>
+    <CategoryID>2</CategoryID>
+    <QuantityPerUnit>48 - 6 oz jars</QuantityPerUnit>
+    <UnitPrice>22.0000</UnitPrice>
+    <UnitsInStock>53</UnitsInStock>
+    <UnitsOnOrder>0</UnitsOnOrder>
+    <ReorderLevel>0</ReorderLevel>
+    <Discontinued>0</Discontinued>
+    <SupplierID_x0020__x0028_1_x0029_>4</SupplierID_x0020__x0028_1_x0029_>
+    <CompanyName>Tokyo Traders</CompanyName>
+    <ContactName>Yoshi Nagase</ContactName>
+    <ContactTitle>Marketing Manager</ContactTitle>
+    <Address>9-8 Sekimai Musashino-shi</Address>
+    <City>Tokyo</City>
+    <PostalCode>100</PostalCode>
+    <Country>Japan</Country>
+    <Phone>(03) 3555-5011</Phone>
+  </factProductSupplierDetails>
+  <factProductSupplierDetails>
+    <ProductID>5</ProductID>
+    <ProductName>Chef Anton's Gumbo Mix</ProductName>
+    <SupplierID>2</SupplierID>
+    <CategoryID>2</CategoryID>
+    <QuantityPerUnit>36 boxes</QuantityPerUnit>
+    <UnitPrice>21.3500</UnitPrice>
+    <UnitsInStock>0</UnitsInStock>
+    <UnitsOnOrder>0</UnitsOnOrder>
+    <ReorderLevel>0</ReorderLevel>
+    <Discontinued>1</Discontinued>
+    <SupplierID_x0020__x0028_1_x0029_>5</SupplierID_x0020__x0028_1_x0029_>
+    <CompanyName>Cooperativa de Quesos 'Las Cabras'</CompanyName>
+    <ContactName>Antonio del Valle Saavedra</ContactName>
+    <ContactTitle>Export Administrator</ContactTitle>
+    <Address>Calle del Rosal 4</Address>
+    <City>Oviedo</City>
+    <Region>Asturias</Region>
+    <PostalCode>33007</PostalCode>
+    <Country>Spain</Country>
+    <Phone>(98) 598 76 54</Phone>
+  </factProductSupplierDetails>
+  <factProductSupplierDetails>
+    <ProductID>6</ProductID>
+    <ProductName>Grandma's Boysenberry Spread</ProductName>
+    <SupplierID>3</SupplierID>
+    <CategoryID>2</CategoryID>
+    <QuantityPerUnit>12 - 8 oz jars</QuantityPerUnit>
+    <UnitPrice>25.0000</UnitPrice>
+    <UnitsInStock>120</UnitsInStock>
+    <UnitsOnOrder>0</UnitsOnOrder>
+    <ReorderLevel>25</ReorderLevel>
+    <Discontinued>0</Discontinued>
+    <SupplierID_x0020__x0028_1_x0029_>6</SupplierID_x0020__x0028_1_x0029_>
+    <CompanyName>Mayumi's</CompanyName>
+    <ContactName>Mayumi Ohno</ContactName>
+    <ContactTitle>Marketing Representative</ContactTitle>
+    <Address>92 Setsuko Chuo-ku</Address>
+    <City>Osaka</City>
+    <PostalCode>545</PostalCode>
+    <Country>Japan</Country>
+    <Phone>(06) 431-7877</Phone>
+    <HomePage>Mayumi's (on the World Wide Web)#http://www.microsoft.com/accessdev/sampleapps/mayumi.htm#</HomePage>
+  </factProductSupplierDetails>
+  <factProductSupplierDetails>
+    <ProductID>7</ProductID>
+    <ProductName>Uncle Bob's Organic Dried Pears</ProductName>
+    <SupplierID>3</SupplierID>
+    <CategoryID>7</CategoryID>
+    <QuantityPerUnit>12 - 1 lb pkgs.</QuantityPerUnit>
+    <UnitPrice>30.0000</UnitPrice>
+    <UnitsInStock>15</UnitsInStock>
+    <UnitsOnOrder>0</UnitsOnOrder>
+    <ReorderLevel>10</ReorderLevel>
+    <Discontinued>0</Discontinued>
+    <SupplierID_x0020__x0028_1_x0029_>7</SupplierID_x0020__x0028_1_x0029_>
+    <CompanyName>Pavlova, Ltd.</CompanyName>
+    <ContactName>Ian Devling</ContactName>
+    <ContactTitle>Marketing Manager</ContactTitle>
+    <Address>74 Rose St. Moonie Ponds</Address>
+    <City>Melbourne</City>
+    <Region>Victoria</Region>
+    <PostalCode>3058</PostalCode>
+    <Country>Australia</Country>
+    <Phone>(03) 444-2343</Phone>
+    <Fax>(03) 444-6588</Fax>
+  </factProductSupplierDetails>
+  <factProductSupplierDetails>
+    <ProductID>8</ProductID>
+    <ProductName>Northwoods Cranberry Sauce</ProductName>
+    <SupplierID>3</SupplierID>
+    <CategoryID>2</CategoryID>
+    <QuantityPerUnit>12 - 12 oz jars</QuantityPerUnit>
+    <UnitPrice>40.0000</UnitPrice>
+    <UnitsInStock>6</UnitsInStock>
+    <UnitsOnOrder>0</UnitsOnOrder>
+    <ReorderLevel>0</ReorderLevel>
+    <Discontinued>0</Discontinued>
+    <SupplierID_x0020__x0028_1_x0029_>8</SupplierID_x0020__x0028_1_x0029_>
+    <CompanyName>Specialty Biscuits, Ltd.</CompanyName>
+    <ContactName>Peter Wilson</ContactName>
+    <ContactTitle>Sales Representative</ContactTitle>
+    <Address>29 King's Way</Address>
+    <City>Manchester</City>
+    <PostalCode>M14 GSD</PostalCode>
+    <Country>UK</Country>
+    <Phone>(161) 555-4448</Phone>
+  </factProductSupplierDetails>
+  <factProductSupplierDetails>
+    <ProductID>9</ProductID>
+    <ProductName>Mishi Kobe Niku</ProductName>
+    <SupplierID>4</SupplierID>
+    <CategoryID>6</CategoryID>
+    <QuantityPerUnit>18 - 500 g pkgs.</QuantityPerUnit>
+    <UnitPrice>97.0000</UnitPrice>
+    <UnitsInStock>29</UnitsInStock>
+    <UnitsOnOrder>0</UnitsOnOrder>
+    <ReorderLevel>0</ReorderLevel>
+    <Discontinued>1</Discontinued>
+    <SupplierID_x0020__x0028_1_x0029_>9</SupplierID_x0020__x0028_1_x0029_>
+    <CompanyName>PB Knäckebröd AB</CompanyName>
+    <ContactName>Lars Peterson</ContactName>
+    <ContactTitle>Sales Agent</ContactTitle>
+    <Address>Kaloadagatan 13</Address>
+    <City>Göteborg</City>
+    <PostalCode>S-345 67</PostalCode>
+    <Country>Sweden</Country>
+    <Phone>031-987 65 43</Phone>
+    <Fax>031-987 65 91</Fax>
+  </factProductSupplierDetails>
+  <factProductSupplierDetails>
+    <ProductID>10</ProductID>
+    <ProductName>Ikura</ProductName>
+    <SupplierID>4</SupplierID>
+    <CategoryID>8</CategoryID>
+    <QuantityPerUnit>12 - 200 ml jars</QuantityPerUnit>
+    <UnitPrice>31.0000</UnitPrice>
+    <UnitsInStock>31</UnitsInStock>
+    <UnitsOnOrder>0</UnitsOnOrder>
+    <ReorderLevel>0</ReorderLevel>
+    <Discontinued>0</Discontinued>
+    <SupplierID_x0020__x0028_1_x0029_>10</SupplierID_x0020__x0028_1_x0029_>
+    <CompanyName>Refrescos Americanas LTDA</CompanyName>
+    <ContactName>Carlos Diaz</ContactName>
+    <ContactTitle>Marketing Manager</ContactTitle>
+    <Address>Av. das Americanas 12.890</Address>
+    <City>Sao Paulo</City>
+    <PostalCode>5442</PostalCode>
+    <Country>Brazil</Country>
+    <Phone>(11) 555 4640</Phone>
+  </factProductSupplierDetails>
+  <factProductSupplierDetails>
+    <ProductID>11</ProductID>
+    <ProductName>Queso Cabrales</ProductName>
+    <SupplierID>5</SupplierID>
+    <CategoryID>4</CategoryID>
+    <QuantityPerUnit>1 kg pkg.</QuantityPerUnit>
+    <UnitPrice>21.0000</UnitPrice>
+    <UnitsInStock>22</UnitsInStock>
+    <UnitsOnOrder>30</UnitsOnOrder>
+    <ReorderLevel>30</ReorderLevel>
+    <Discontinued>0</Discontinued>
+    <SupplierID_x0020__x0028_1_x0029_>11</SupplierID_x0020__x0028_1_x0029_>
+    <CompanyName>Heli Süßwaren GmbH &amp; Co. KG</CompanyName>
+    <ContactName>Petra Winkler</ContactName>
+    <ContactTitle>Sales Manager</ContactTitle>
+    <Address>Tiergartenstraße 5</Address>
+    <City>Berlin</City>
+    <PostalCode>10785</PostalCode>
+    <Country>Germany</Country>
+    <Phone>(010) 9984510</Phone>
+  </factProductSupplierDetails>
+  <factProductSupplierDetails>
+    <ProductID>12</ProductID>
+    <ProductName>Queso Manchego La Pastora</ProductName>
+    <SupplierID>5</SupplierID>
+    <CategoryID>4</CategoryID>
+    <QuantityPerUnit>10 - 500 g pkgs.</QuantityPerUnit>
+    <UnitPrice>38.0000</UnitPrice>
+    <UnitsInStock>86</UnitsInStock>
+    <UnitsOnOrder>0</UnitsOnOrder>
+    <ReorderLevel>0</ReorderLevel>
+    <Discontinued>0</Discontinued>
+    <SupplierID_x0020__x0028_1_x0029_>12</SupplierID_x0020__x0028_1_x0029_>
+    <CompanyName>Plutzer Lebensmittelgroßmärkte AG</CompanyName>
+    <ContactName>Martin Bein</ContactName>
+    <ContactTitle>International Marketing Mgr.</ContactTitle>
+    <Address>Bogenallee 51</Address>
+    <City>Frankfurt</City>
+    <PostalCode>60439</PostalCode>
+    <Country>Germany</Country>
+    <Phone>(069) 992755</Phone>
+    <HomePage>Plutzer (on the World Wide Web)#http://www.microsoft.com/accessdev/sampleapps/plutzer.htm#</HomePage>
+  </factProductSupplierDetails>
+  <factProductSupplierDetails>
+    <ProductID>13</ProductID>
+    <ProductName>Konbu</ProductName>
+    <SupplierID>6</SupplierID>
+    <CategoryID>8</CategoryID>
+    <QuantityPerUnit>2 kg box</QuantityPerUnit>
+    <UnitPrice>6.0000</UnitPrice>
+    <UnitsInStock>24</UnitsInStock>
+    <UnitsOnOrder>0</UnitsOnOrder>
+    <ReorderLevel>5</ReorderLevel>
+    <Discontinued>0</Discontinued>
+    <SupplierID_x0020__x0028_1_x0029_>13</SupplierID_x0020__x0028_1_x0029_>
+    <CompanyName>Nord-Ost-Fisch Handelsgesellschaft mbH</CompanyName>
+    <ContactName>Sven Petersen</ContactName>
+    <ContactTitle>Coordinator Foreign Markets</ContactTitle>
+    <Address>Frahmredder 112a</Address>
+    <City>Cuxhaven</City>
+    <PostalCode>27478</PostalCode>
+    <Country>Germany</Country>
+    <Phone>(04721) 8713</Phone>
+    <Fax>(04721) 8714</Fax>
+  </factProductSupplierDetails>
+  <factProductSupplierDetails>
+    <ProductID>14</ProductID>
+    <ProductName>Tofu</ProductName>
+    <SupplierID>6</SupplierID>
+    <CategoryID>7</CategoryID>
+    <QuantityPerUnit>40 - 100 g pkgs.</QuantityPerUnit>
+    <UnitPrice>23.2500</UnitPrice>
+    <UnitsInStock>35</UnitsInStock>
+    <UnitsOnOrder>0</UnitsOnOrder>
+    <ReorderLevel>0</ReorderLevel>
+    <Discontinued>0</Discontinued>
+    <SupplierID_x0020__x0028_1_x0029_>14</SupplierID_x0020__x0028_1_x0029_>
+    <CompanyName>Formaggi Fortini s.r.l.</CompanyName>
+    <ContactName>Elio Rossi</ContactName>
+    <ContactTitle>Sales Representative</ContactTitle>
+    <Address>Viale Dante, 75</Address>
+    <City>Ravenna</City>
+    <PostalCode>48100</PostalCode>
+    <Country>Italy</Country>
+    <Phone>(0544) 60323</Phone>
+    <Fax>(0544) 60603</Fax>
+    <HomePage>#FORMAGGI.HTM#</HomePage>
+  </factProductSupplierDetails>
+  <factProductSupplierDetails>
+    <ProductID>15</ProductID>
+    <ProductName>Genen Shouyu</ProductName>
+    <SupplierID>6</SupplierID>
+    <CategoryID>2</CategoryID>
+    <QuantityPerUnit>24 - 250 ml bottles</QuantityPerUnit>
+    <UnitPrice>15.5000</UnitPrice>
+    <UnitsInStock>39</UnitsInStock>
+    <UnitsOnOrder>0</UnitsOnOrder>
+    <ReorderLevel>5</ReorderLevel>
+    <Discontinued>0</Discontinued>
+    <SupplierID_x0020__x0028_1_x0029_>15</SupplierID_x0020__x0028_1_x0029_>
+    <CompanyName>Norske Meierier</CompanyName>
+    <ContactName>Beate Vileid</ContactName>
+    <ContactTitle>Marketing Manager</ContactTitle>
+    <Address>Hatlevegen 5</Address>
+    <City>Sandvika</City>
+    <PostalCode>1320</PostalCode>
+    <Country>Norway</Country>
+    <Phone>(0)2-953010</Phone>
+  </factProductSupplierDetails>
+  <factProductSupplierDetails>
+    <ProductID>16</ProductID>
+    <ProductName>Pavlova</ProductName>
+    <SupplierID>7</SupplierID>
+    <CategoryID>3</CategoryID>
+    <QuantityPerUnit>32 - 500 g boxes</QuantityPerUnit>
+    <UnitPrice>17.4500</UnitPrice>
+    <UnitsInStock>29</UnitsInStock>
+    <UnitsOnOrder>0</UnitsOnOrder>
+    <ReorderLevel>10</ReorderLevel>
+    <Discontinued>0</Discontinued>
+    <SupplierID_x0020__x0028_1_x0029_>16</SupplierID_x0020__x0028_1_x0029_>
+    <CompanyName>Bigfoot Breweries</CompanyName>
+    <ContactName>Cheryl Saylor</ContactName>
+    <ContactTitle>Regional Account Rep.</ContactTitle>
+    <Address>3400 - 8th Avenue Suite 210</Address>
+    <City>Bend</City>
+    <Region>OR</Region>
+    <PostalCode>97101</PostalCode>
+    <Country>USA</Country>
+    <Phone>(503) 555-9931</Phone>
+  </factProductSupplierDetails>
+  <factProductSupplierDetails>
+    <ProductID>17</ProductID>
+    <ProductName>Alice Mutton</ProductName>
+    <SupplierID>7</SupplierID>
+    <CategoryID>6</CategoryID>
+    <QuantityPerUnit>20 - 1 kg tins</QuantityPerUnit>
+    <UnitPrice>39.0000</UnitPrice>
+    <UnitsInStock>0</UnitsInStock>
+    <UnitsOnOrder>0</UnitsOnOrder>
+    <ReorderLevel>0</ReorderLevel>
+    <Discontinued>1</Discontinued>
+    <SupplierID_x0020__x0028_1_x0029_>17</SupplierID_x0020__x0028_1_x0029_>
+    <CompanyName>Svensk Sjöföda AB</CompanyName>
+    <ContactName>Michael Björn</ContactName>
+    <ContactTitle>Sales Representative</ContactTitle>
+    <Address>Brovallavägen 231</Address>
+    <City>Stockholm</City>
+    <PostalCode>S-123 45</PostalCode>
+    <Country>Sweden</Country>
+    <Phone>08-123 45 67</Phone>
+  </factProductSupplierDetails>
+  <factProductSupplierDetails>
+    <ProductID>18</ProductID>
+    <ProductName>Carnarvon Tigers</ProductName>
+    <SupplierID>7</SupplierID>
+    <CategoryID>8</CategoryID>
+    <QuantityPerUnit>16 kg pkg.</QuantityPerUnit>
+    <UnitPrice>62.5000</UnitPrice>
+    <UnitsInStock>42</UnitsInStock>
+    <UnitsOnOrder>0</UnitsOnOrder>
+    <ReorderLevel>0</ReorderLevel>
+    <Discontinued>0</Discontinued>
+    <SupplierID_x0020__x0028_1_x0029_>18</SupplierID_x0020__x0028_1_x0029_>
+    <CompanyName>Aux joyeux ecclésiastiques</CompanyName>
+    <ContactName>Guylène Nodier</ContactName>
+    <ContactTitle>Sales Manager</ContactTitle>
+    <Address>203, Rue des Francs-Bourgeois</Address>
+    <City>Paris</City>
+    <PostalCode>75004</PostalCode>
+    <Country>France</Country>
+    <Phone>(1) 03.83.00.68</Phone>
+    <Fax>(1) 03.83.00.62</Fax>
+  </factProductSupplierDetails>
+  <factProductSupplierDetails>
+    <ProductID>19</ProductID>
+    <ProductName>Teatime Chocolate Biscuits</ProductName>
+    <SupplierID>8</SupplierID>
+    <CategoryID>3</CategoryID>
+    <QuantityPerUnit>10 boxes x 12 pieces</QuantityPerUnit>
+    <UnitPrice>9.2000</UnitPrice>
+    <UnitsInStock>25</UnitsInStock>
+    <UnitsOnOrder>0</UnitsOnOrder>
+    <ReorderLevel>5</ReorderLevel>
+    <Discontinued>0</Discontinued>
+    <SupplierID_x0020__x0028_1_x0029_>19</SupplierID_x0020__x0028_1_x0029_>
+    <CompanyName>New England Seafood Cannery</CompanyName>
+    <ContactName>Robb Merchant</ContactName>
+    <ContactTitle>Wholesale Account Agent</ContactTitle>
+    <Address>Order Processing Dept. 2100 Paul Revere Blvd.</Address>
+    <City>Boston</City>
+    <Region>MA</Region>
+    <PostalCode>02134</PostalCode>
+    <Country>USA</Country>
+    <Phone>(617) 555-3267</Phone>
+    <Fax>(617) 555-3389</Fax>
+  </factProductSupplierDetails>
+  <factProductSupplierDetails>
+    <ProductID>20</ProductID>
+    <ProductName>Sir Rodney's Marmalade</ProductName>
+    <SupplierID>8</SupplierID>
+    <CategoryID>3</CategoryID>
+    <QuantityPerUnit>30 gift boxes</QuantityPerUnit>
+    <UnitPrice>81.0000</UnitPrice>
+    <UnitsInStock>40</UnitsInStock>
+    <UnitsOnOrder>0</UnitsOnOrder>
+    <ReorderLevel>0</ReorderLevel>
+    <Discontinued>0</Discontinued>
+    <SupplierID_x0020__x0028_1_x0029_>20</SupplierID_x0020__x0028_1_x0029_>
+    <CompanyName>Leka Trading</CompanyName>
+    <ContactName>Chandra Leka</ContactName>
+    <ContactTitle>Owner</ContactTitle>
+    <Address>471 Serangoon Loop, Suite #402</Address>
+    <City>Singapore</City>
+    <PostalCode>0512</PostalCode>
+    <Country>Singapore</Country>
+    <Phone>555-8787</Phone>
+  </factProductSupplierDetails>
+  <factProductSupplierDetails>
+    <ProductID>21</ProductID>
+    <ProductName>Sir Rodney's Scones</ProductName>
+    <SupplierID>8</SupplierID>
+    <CategoryID>3</CategoryID>
+    <QuantityPerUnit>24 pkgs. x 4 pieces</QuantityPerUnit>
+    <UnitPrice>10.0000</UnitPrice>
+    <UnitsInStock>3</UnitsInStock>
+    <UnitsOnOrder>40</UnitsOnOrder>
+    <ReorderLevel>5</ReorderLevel>
+    <Discontinued>0</Discontinued>
+    <SupplierID_x0020__x0028_1_x0029_>21</SupplierID_x0020__x0028_1_x0029_>
+    <CompanyName>Lyngbysild</CompanyName>
+    <ContactName>Niels Petersen</ContactName>
+    <ContactTitle>Sales Manager</ContactTitle>
+    <Address>Lyngbysild Fiskebakken 10</Address>
+    <City>Lyngby</City>
+    <PostalCode>2800</PostalCode>
+    <Country>Denmark</Country>
+    <Phone>43844108</Phone>
+    <Fax>43844115</Fax>
+  </factProductSupplierDetails>
+  <factProductSupplierDetails>
+    <ProductID>22</ProductID>
+    <ProductName>Gustaf's Knäckebröd</ProductName>
+    <SupplierID>9</SupplierID>
+    <CategoryID>5</CategoryID>
+    <QuantityPerUnit>24 - 500 g pkgs.</QuantityPerUnit>
+    <UnitPrice>21.0000</UnitPrice>
+    <UnitsInStock>104</UnitsInStock>
+    <UnitsOnOrder>0</UnitsOnOrder>
+    <ReorderLevel>25</ReorderLevel>
+    <Discontinued>0</Discontinued>
+    <SupplierID_x0020__x0028_1_x0029_>22</SupplierID_x0020__x0028_1_x0029_>
+    <CompanyName>Zaanse Snoepfabriek</CompanyName>
+    <ContactName>Dirk Luchte</ContactName>
+    <ContactTitle>Accounting Manager</ContactTitle>
+    <Address>Verkoop Rijnweg 22</Address>
+    <City>Zaandam</City>
+    <PostalCode>9999 ZZ</PostalCode>
+    <Country>Netherlands</Country>
+    <Phone>(12345) 1212</Phone>
+    <Fax>(12345) 1210</Fax>
+  </factProductSupplierDetails>
+  <factProductSupplierDetails>
+    <ProductID>23</ProductID>
+    <ProductName>Tunnbröd</ProductName>
+    <SupplierID>9</SupplierID>
+    <CategoryID>5</CategoryID>
+    <QuantityPerUnit>12 - 250 g pkgs.</QuantityPerUnit>
+    <UnitPrice>9.0000</UnitPrice>
+    <UnitsInStock>61</UnitsInStock>
+    <UnitsOnOrder>0</UnitsOnOrder>
+    <ReorderLevel>25</ReorderLevel>
+    <Discontinued>0</Discontinued>
+    <SupplierID_x0020__x0028_1_x0029_>23</SupplierID_x0020__x0028_1_x0029_>
+    <CompanyName>Karkki Oy</CompanyName>
+    <ContactName>Anne Heikkonen</ContactName>
+    <ContactTitle>Product Manager</ContactTitle>
+    <Address>Valtakatu 12</Address>
+    <City>Lappeenranta</City>
+    <PostalCode>53120</PostalCode>
+    <Country>Finland</Country>
+    <Phone>(953) 10956</Phone>
+  </factProductSupplierDetails>
+  <factProductSupplierDetails>
+    <ProductID>24</ProductID>
+    <ProductName>Guaraná Fantástica</ProductName>
+    <SupplierID>10</SupplierID>
+    <CategoryID>1</CategoryID>
+    <QuantityPerUnit>12 - 355 ml cans</QuantityPerUnit>
+    <UnitPrice>4.5000</UnitPrice>
+    <UnitsInStock>20</UnitsInStock>
+    <UnitsOnOrder>0</UnitsOnOrder>
+    <ReorderLevel>0</ReorderLevel>
+    <Discontinued>1</Discontinued>
+    <SupplierID_x0020__x0028_1_x0029_>24</SupplierID_x0020__x0028_1_x0029_>
+    <CompanyName>G'day, Mate</CompanyName>
+    <ContactName>Wendy Mackenzie</ContactName>
+    <ContactTitle>Sales Representative</ContactTitle>
+    <Address>170 Prince Edward Parade Hunter's Hill</Address>
+    <City>Sydney</City>
+    <Region>NSW</Region>
+    <PostalCode>2042</PostalCode>
+    <Country>Australia</Country>
+    <Phone>(02) 555-5914</Phone>
+    <Fax>(02) 555-4873</Fax>
+    <HomePage>G'day Mate (on the World Wide Web)#http://www.microsoft.com/accessdev/sampleapps/gdaymate.htm#</HomePage>
+  </factProductSupplierDetails>
+  <factProductSupplierDetails>
+    <ProductID>25</ProductID>
+    <ProductName>NuNuCa Nuß-Nougat-Creme</ProductName>
+    <SupplierID>11</SupplierID>
+    <CategoryID>3</CategoryID>
+    <QuantityPerUnit>20 - 450 g glasses</QuantityPerUnit>
+    <UnitPrice>14.0000</UnitPrice>
+    <UnitsInStock>76</UnitsInStock>
+    <UnitsOnOrder>0</UnitsOnOrder>
+    <ReorderLevel>30</ReorderLevel>
+    <Discontinued>0</Discontinued>
+    <SupplierID_x0020__x0028_1_x0029_>25</SupplierID_x0020__x0028_1_x0029_>
+    <CompanyName>Ma Maison</CompanyName>
+    <ContactName>Jean-Guy Lauzon</ContactName>
+    <ContactTitle>Marketing Manager</ContactTitle>
+    <Address>2960 Rue St. Laurent</Address>
+    <City>Montréal</City>
+    <Region>Québec</Region>
+    <PostalCode>H1J 1C3</PostalCode>
+    <Country>Canada</Country>
+    <Phone>(514) 555-9022</Phone>
+  </factProductSupplierDetails>
+  <factProductSupplierDetails>
+    <ProductID>26</ProductID>
+    <ProductName>Gumbär Gummibärchen</ProductName>
+    <SupplierID>11</SupplierID>
+    <CategoryID>3</CategoryID>
+    <QuantityPerUnit>100 - 250 g bags</QuantityPerUnit>
+    <UnitPrice>31.2300</UnitPrice>
+    <UnitsInStock>15</UnitsInStock>
+    <UnitsOnOrder>0</UnitsOnOrder>
+    <ReorderLevel>0</ReorderLevel>
+    <Discontinued>0</Discontinued>
+    <SupplierID_x0020__x0028_1_x0029_>26</SupplierID_x0020__x0028_1_x0029_>
+    <CompanyName>Pasta Buttini s.r.l.</CompanyName>
+    <ContactName>Giovanni Giudici</ContactName>
+    <ContactTitle>Order Administrator</ContactTitle>
+    <Address>Via dei Gelsomini, 153</Address>
+    <City>Salerno</City>
+    <PostalCode>84100</PostalCode>
+    <Country>Italy</Country>
+    <Phone>(089) 6547665</Phone>
+    <Fax>(089) 6547667</Fax>
+  </factProductSupplierDetails>
+  <factProductSupplierDetails>
+    <ProductID>27</ProductID>
+    <ProductName>Schoggi Schokolade</ProductName>
+    <SupplierID>11</SupplierID>
+    <CategoryID>3</CategoryID>
+    <QuantityPerUnit>100 - 100 g pieces</QuantityPerUnit>
+    <UnitPrice>43.9000</UnitPrice>
+    <UnitsInStock>49</UnitsInStock>
+    <UnitsOnOrder>0</UnitsOnOrder>
+    <ReorderLevel>30</ReorderLevel>
+    <Discontinued>0</Discontinued>
+    <SupplierID_x0020__x0028_1_x0029_>27</SupplierID_x0020__x0028_1_x0029_>
+    <CompanyName>Escargots Nouveaux</CompanyName>
+    <ContactName>Marie Delamare</ContactName>
+    <ContactTitle>Sales Manager</ContactTitle>
+    <Address>22, rue H. Voiron</Address>
+    <City>Montceau</City>
+    <PostalCode>71300</PostalCode>
+    <Country>France</Country>
+    <Phone>85.57.00.07</Phone>
+  </factProductSupplierDetails>
+  <factProductSupplierDetails>
+    <ProductID>28</ProductID>
+    <ProductName>Rössle Sauerkraut</ProductName>
+    <SupplierID>12</SupplierID>
+    <CategoryID>7</CategoryID>
+    <QuantityPerUnit>25 - 825 g cans</QuantityPerUnit>
+    <UnitPrice>45.6000</UnitPrice>
+    <UnitsInStock>26</UnitsInStock>
+    <UnitsOnOrder>0</UnitsOnOrder>
+    <ReorderLevel>0</ReorderLevel>
+    <Discontinued>1</Discontinued>
+    <SupplierID_x0020__x0028_1_x0029_>28</SupplierID_x0020__x0028_1_x0029_>
+    <CompanyName>Gai pâturage</CompanyName>
+    <ContactName>Eliane Noz</ContactName>
+    <ContactTitle>Sales Representative</ContactTitle>
+    <Address>Bat. B 3, rue des Alpes</Address>
+    <City>Annecy</City>
+    <PostalCode>74000</PostalCode>
+    <Country>France</Country>
+    <Phone>38.76.98.06</Phone>
+    <Fax>38.76.98.58</Fax>
+  </factProductSupplierDetails>
+  <factProductSupplierDetails>
+    <ProductID>29</ProductID>
+    <ProductName>Thüringer Rostbratwurst</ProductName>
+    <SupplierID>12</SupplierID>
+    <CategoryID>6</CategoryID>
+    <QuantityPerUnit>50 bags x 30 sausgs.</QuantityPerUnit>
+    <UnitPrice>123.7900</UnitPrice>
+    <UnitsInStock>0</UnitsInStock>
+    <UnitsOnOrder>0</UnitsOnOrder>
+    <ReorderLevel>0</ReorderLevel>
+    <Discontinued>1</Discontinued>
+    <SupplierID_x0020__x0028_1_x0029_>29</SupplierID_x0020__x0028_1_x0029_>
+    <CompanyName>Forêts d'érables</CompanyName>
+    <ContactName>Chantal Goulet</ContactName>
+    <ContactTitle>Accounting Manager</ContactTitle>
+    <Address>148 rue Chasseur</Address>
+    <City>Ste-Hyacinthe</City>
+    <Region>Québec</Region>
+    <PostalCode>J2S 7S8</PostalCode>
+    <Country>Canada</Country>
+    <Phone>(514) 555-2955</Phone>
+    <Fax>(514) 555-2921</Fax>
+  </factProductSupplierDetails>
+</ProductSuppiers>

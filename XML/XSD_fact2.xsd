@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<xs:element name="OrderEmployees">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element maxOccurs="unbounded" name="dimOrders">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="OrderID" type="xs:unsignedShort" />
+							<xs:element name="CustomerID" type="xs:string" />
+							<xs:element name="EmployeeID" type="xs:unsignedByte" />
+							<xs:element name="OrderDate" type="xs:dateTime" />
+							<xs:element name="RequiredDate" type="xs:dateTime" />
+							<xs:element minOccurs="0" name="ShippedDate" type="xs:dateTime" />
+							<xs:element name="ShipVia" type="xs:unsignedByte" />
+							<xs:element name="Freight" type="xs:decimal" />
+							<xs:element name="ShipName" type="xs:string" />
+							<xs:element name="ShipAddress" type="xs:string" />
+							<xs:element name="ShipCity" type="xs:string" />
+							<xs:element minOccurs="0" name="ShipRegion" type="xs:string" />
+							<xs:element minOccurs="0" name="ShipPostalCode" type="xs:string" />
+							<xs:element name="ShipCountry" type="xs:string" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<xs:element name="ProductSuppiers">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element maxOccurs="unbounded" name="factProductSupplierDetails">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="ProductID" type="xs:unsignedByte" />
+							<xs:element name="ProductName" type="xs:string" />
+							<xs:element name="SupplierID" type="xs:unsignedByte" />
+							<xs:element name="CategoryID" type="xs:unsignedByte" />
+							<xs:element name="QuantityPerUnit" type="xs:string" />
+							<xs:element name="UnitPrice" type="xs:decimal" />
+							<xs:element name="UnitsInStock" type="xs:unsignedByte" />
+							<xs:element name="UnitsOnOrder" type="xs:unsignedByte" />
+							<xs:element name="ReorderLevel" type="xs:unsignedByte" />
+							<xs:element name="Discontinued" type="xs:unsignedByte" />
+							<xs:element name="SupplierID_x0020__x0028_1_x0029_" type="xs:unsignedByte" />
+							<xs:element name="CompanyName" type="xs:string" />
+							<xs:element name="ContactName" type="xs:string" />
+							<xs:element name="ContactTitle" type="xs:string" />
+							<xs:element name="Address" type="xs:string" />
+							<xs:element name="City" type="xs:string" />
+							<xs:element minOccurs="0" name="Region" type="xs:string" />
+							<xs:element name="PostalCode" type="xs:string" />
+							<xs:element name="Country" type="xs:string" />
+							<xs:element name="Phone" type="xs:string" />
+							<xs:element minOccurs="0" name="Fax" type="xs:string" />
+							<xs:element minOccurs="0" name="HomePage" type="xs:string" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>
