@@ -21,7 +21,7 @@ from dimOrders')
 }
 
 # Plot graph 
-n = 1000 #nof iterations
+n = 1000 #not iterations
 windowQuery = 20 # syncronised with TOP clause in SELECT statement
 for (i in 1:(n - windowQuery)) {
     flush.console()
