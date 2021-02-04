@@ -6,7 +6,7 @@ assign("getREnvironment", new.env(), envir = .GlobalEnv)
 getSQLServerData <- function() {
     #extract environment settings for storing data
     getREnvironment <- get("getREnvironment", envir = .GlobalEnv, mode = "environment")
-    #get the SQL Server data
+    #To get SQL Server data
     con <- odbcDriverConnect('driver={SQL Server};server=DESKTOP-HNF5H2Q\\SQLEXPRESS;database=SupplyChain;trusted_connection=true')
     db_df <- sqlQuery(con, 'select top(10) dimOrders.OrderID,dimOrders.ShipVia
 from dimOrders')
