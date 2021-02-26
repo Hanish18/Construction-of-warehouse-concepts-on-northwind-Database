@@ -4,7 +4,7 @@ assign("getREnvironment", new.env(), envir = .GlobalEnv)
 
 # Function to read data from SQL Server.
 getSQLServerData <- function() {
-    #extract environment settings for storing data.
+    ###extract environment settings for storing data.
     getREnvironment <- get("getREnvironment", envir = .GlobalEnv, mode = "environment")
     #To get SQL Server data.
     con <- odbcDriverConnect('driver={SQL Server};server=DESKTOP-HNF5H2Q\\SQLEXPRESS;database=SupplyChain;trusted_connection=true')
@@ -13,7 +13,7 @@ from dimOrders')
     print(db_df)
     plot(db_df)
     close(con)
-    #overwrite existing data with new data
+    ###overwrite existing data with new data
     df_overwrite <- db_df
     getREnvironment$db_df <- data.frame(df_overwrite)
     try(assign("getREnvironment", getREnvironment, envir = .GlobalEnv))
